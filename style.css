@@ -1,0 +1,16 @@
+    #banner {
+        width: 100%;
+    }
+    
+    p {
+        text-align: center, justify;
+    }
+    
+    li {
+        text-align: justify, left;
+    }
+    
+    footer {
+        text-align: center;
+        justify-content: center;
+    }
